@@ -19,9 +19,11 @@ This repository is a consolidated portfolio of my verified certifications, skill
 ## Google Cloud
 ### 1. Google Cloud Data Analytics Professional:
 Validated expertise in building scalable data pipelines, performing advanced SQL analytics, and applying lakehouse architecture principles on Google Cloud. Demonstrates proficiency in ETL/ELT, data modeling, governance, and end‑to‑end analytical solution development using BigQuery and GCP tools.
+
 ![Google Cloud Data Analytics Professional] (./assets/google-cloud-data-analytics-certificate.png)
 
-**Generative AI with Vertex AI Gemini API**
+
+### 2. Generative AI with Vertex AI Gemini API**
 
 **Prompt Design & Engineering in Vertex AI**
 
