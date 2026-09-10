@@ -44,7 +44,7 @@ Demonstrates practical knowledge of implementing fairness, transparency, privacy
 
 <p align="left">
   <img src="./assets/Responsible_AI.png" alt="Responsible AI Badge" width="200" />
-  <img src="./assets/Responsible_AI2.png" alt="Responsible AI Badge 2" width="200" />
+  <img src="./assets/Responsible_AI_2.png" alt="Responsible AI Badge 2" width="200" />
 </p>
 
 
