@@ -21,7 +21,7 @@ To showcase verified credentials demonstrating hands-on expertise in:
 # 📘 Included Certifications & Badges
 
 ## UTSA Data Analytics & Data Science Boot Camp:  
-Provides comprehensive training across statistics, Python, R, SQL, big data ecosystems, machine learning, and TensorFlow, preparing students to build end‑to‑end analytical and predictive workflows. Validates hands‑on experience in data visualization with tools like D3.js, JavaScript, and dashboarding platforms, along with practical skills in modeling, feature engineering, and applied data science techniques.
+Obtained comprehensive training across statistics, Python, R, SQL, big data ecosystems, machine learning, and TensorFlow, preparing students to build end‑to‑end analytical and predictive workflows. Validates hands‑on experience in data visualization with tools like D3.js, JavaScript, and dashboarding platforms, along with practical skills in modeling, feature engineering, and applied data science techniques.
 
 ![Google Cloud Data Analytics Professional](./assets/UTSA_DataScience_Analytics_Certificate.jpeg)
 
