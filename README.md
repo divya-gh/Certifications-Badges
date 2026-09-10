@@ -44,7 +44,7 @@ Links to verification pages
 
 
 🔗 Quick Links
-LinkedIn: https://www.linkedin.com/in/divya-shetty-k (linkedin.com in Bing)  
+LinkedIn: https://www.linkedin.com/in/divya-shetty-k  
 
 
 #💡 About Me
