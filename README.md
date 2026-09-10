@@ -26,7 +26,7 @@ Validated expertise in building scalable data pipelines, performing advanced SQL
 ### 2. Generative AI with Vertex AI Gemini API:  
 Demonstrates hands‑on proficiency in building multimodal AI applications using the Gemini API, including text, code, image, and structured output generation. Validates skills in function calling, prompt design, and integrating Gemini models into production‑ready workflows using Vertex AI tools and Python SDKs.
 
-![Generative AI with Vertex AI Gemini API](./assets/explore-generative-ai-with-the-vertex-ai-gemini-api.png)
+![Generative AI with Vertex AI Gemini API](./assets/genai_vertexai.png)
 
 ### 3. Google Cloud Data Analytics Certificate:  
 Demonstrates validated proficiency in transforming raw data into actionable insights using BigQuery, SQL, and scalable Google Cloud data pipelines. Confirms hands‑on skills in ETL/ELT, data modeling, governance, and building end‑to‑end analytical solutions aligned with modern cloud architecture best practices.
