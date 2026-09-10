@@ -96,7 +96,7 @@ Demonstrates proficiency in building interactive dashboards, transforming raw da
 LinkedIn: https://www.linkedin.com/in/divya-shetty-k  
 
 ---
-#💡 About Me
+# 💡 About Me:
 **AI Engineer specializing in Agentic AI, Multi-Agent Systems, LLM Applications, RAG, and AI Security. I build production-oriented AI agents using LangGraph, Gemini/Vertex AI, Google ADK, BigQuery, and Python, with strong foundations in testing, observability, and responsible AI.**
 
 ---
