@@ -20,7 +20,7 @@ This repository is a consolidated portfolio of my verified certifications, skill
 ## UTSA Data Analytics & Data Science Boot Camp:  
 Provides comprehensive training across statistics, Python, R, SQL, big data ecosystems, machine learning, and TensorFlow, preparing students to build end‑to‑end analytical and predictive workflows. Validates hands‑on experience in data visualization with tools like D3.js, JavaScript, and dashboarding platforms, along with practical skills in modeling, feature engineering, and applied data science techniques.
 
-![Google Cloud Data Analytics Professional](./assets/UTSA_DataScience_Analytics_Certificate.png)
+![Google Cloud Data Analytics Professional](./assets/UTSA_DataScience_Analytics_Certificate.jpeg)
 
 ## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.skills.google/profile/badges?credential_type=skill_badge)
 ### 1. Google Cloud Data Analytics Professional:
