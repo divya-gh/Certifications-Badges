@@ -4,16 +4,19 @@ This repository is a consolidated portfolio of my verified certifications, skill
 
 ---
 # 🎯 Purpose of This Repository
-#### To showcase verified credentials demonstrating hands-on expertise in:
-
-- Agentic AI & Multi-Agent Systems
-- LangGraph, Google ADK, MCP, A2A
-- LLM Engineering (Gemini, Vertex AI, LangChain)
-- RAG pipelines & source-grounded generation
-- AI Security, Reliability & Governance
-- Cloud Architecture (Google Cloud Platform)
-- Machine Learning & Applied AI
-- Responsible AI practices
+To showcase verified credentials demonstrating hands-on expertise in:
+`Agentic AI & Multi-Agent Systems`
+`LangGraph, Google ADK, MCP, A2A`
+`LLM Engineering (Gemini, Vertex AI, LangChain)`
+`Generative AI Foundations, Prompt Engineering & Model Behavior`
+`Machine Learning, Deep Learning & TensorFlow`
+`Python, SQL, R & Big Data Ecosystems`
+`RAG Pipelines & Source-Grounded Generation`
+`AI Security, Reliability & Governance`
+`Cloud Architecture (Google Cloud Platform)`
+`Data Science & Analytics (EDA, Modeling, Feature Engineering)`
+`Data Visualization (Looker Studio, D3.js, JavaScript)`
+`Responsible AI Practices`
 
 # 📘 Included Certifications & Badges
 
@@ -21,6 +24,15 @@ This repository is a consolidated portfolio of my verified certifications, skill
 Provides comprehensive training across statistics, Python, R, SQL, big data ecosystems, machine learning, and TensorFlow, preparing students to build end‑to‑end analytical and predictive workflows. Validates hands‑on experience in data visualization with tools like D3.js, JavaScript, and dashboarding platforms, along with practical skills in modeling, feature engineering, and applied data science techniques.
 
 ![Google Cloud Data Analytics Professional](./assets/UTSA_DataScience_Analytics_Certificate.jpeg)
+
+## Google / Kaggle
+### AI Agents Intensive Program (2025 & 2026):
+Demonstrates hands‑on expertise in building agentic AI systems using LangGraph, Gemini, Google ADK, and multi‑agent orchestration patterns, including memory, tool‑calling, HITL workflows, and secure agent design. Validates practical skills in specification‑driven development, observability, debugging, and implementing real‑world agent workflows aligned with modern AI engineering best practices.
+
+<p align="left">
+  <img src="./assets/Google_intesive.png" alt="Responsible AI Badge" width="200" />
+  <img src="./assets/google_5day_vibe_coding.png" alt="Responsible AI Badge 2" width="200" />
+</p>
 
 ## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.skills.google/profile/badges?credential_type=skill_badge)
 ### 1. Google Cloud Data Analytics Professional:
@@ -67,15 +79,6 @@ Demonstrates proficiency in building interactive dashboards, transforming raw da
 
 ![Responsible AI: Applying AI Principles](./assets/looker_studio.png)
 
-
-## Google / Kaggle
-### AI Agents Intensive Program (2025 & 2026):
-Demonstrates hands‑on expertise in building agentic AI systems using LangGraph, Gemini, Google ADK, and multi‑agent orchestration patterns, including memory, tool‑calling, HITL workflows, and secure agent design. Validates practical skills in specification‑driven development, observability, debugging, and implementing real‑world agent workflows aligned with modern AI engineering best practices.
-
-<p align="left">
-  <img src="./assets/Google_intesive.png" alt="Responsible AI Badge" width="200" />
-  <img src="./assets/google_5day_vibe_coding.png" alt="Responsible AI Badge 2" width="200" />
-</p>
 
 ## LangGraph
 **Google ADK**
