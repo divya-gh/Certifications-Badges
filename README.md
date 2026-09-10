@@ -39,6 +39,13 @@ Demonstrates validated proficiency in transforming raw data into actionable insi
 
 ![Google Cloud Data Analytics Certificate](./assets/data_analytics_google.png)
 
+### 4. Gen AI & LLMs: Introduction and Foundational Concepts:  
+Provides a strong foundation in how generative AI systems and large language models work, covering core concepts such as embeddings, tokenization, model architectures, multimodal inputs, and responsible AI principles. Demonstrates practical understanding of prompt design, model capabilities and limitations, and how LLMs generate, transform, and reason over text, code, and structured data.
+
+<p align="left">
+  <img src="./assets/Responsible_AI.png" alt="Responsible AI Badge" width="200" />
+  <img src="./assets/Responsible_AI_2.png" alt="Responsible AI Badge 2" width="200" />
+</p>
 
 ### 4.Prompt Design & Engineering in Vertex AI:
 Demonstrates proficiency in designing effective prompts, optimizing model behavior, and structuring inputs for reliable multimodal generation using Vertex AI. Validates hands‑on skills in building, testing, and refining prompt-driven workflows with the Vertex AI Studio, Workbench, and Python SDK for production‑ready AI applications.
