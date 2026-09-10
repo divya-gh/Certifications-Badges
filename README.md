@@ -16,21 +16,55 @@ This repository is a consolidated portfolio of my verified certifications, skill
 - Responsible AI practices
 
 # 📘 Included Certifications & Badges
-## Google Cloud
+## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.credly.com/users/divya-shetty.1085494c)
 ### 1. Google Cloud Data Analytics Professional:
 Validated expertise in building scalable data pipelines, performing advanced SQL analytics, and applying lakehouse architecture principles on Google Cloud. Demonstrates proficiency in ETL/ELT, data modeling, governance, and end‑to‑end analytical solution development using BigQuery and GCP tools.
 
 ![Google Cloud Data Analytics Professional](./assets/google-cloud-data-analytics-certificate.png)
 
 
-### 2. Generative AI with Vertex AI Gemini API**
+### 2. Generative AI with Vertex AI Gemini API:  
+Demonstrates hands‑on proficiency in building multimodal AI applications using the Gemini API, including text, code, image, and structured output generation. Validates skills in function calling, prompt design, and integrating Gemini models into production‑ready workflows using Vertex AI tools and Python SDKs.
 
-**Prompt Design & Engineering in Vertex AI**
+![Generative AI with Vertex AI Gemini API](./assets/explore-generative-ai-with-the-vertex-ai-gemini-api.png)
 
-**Responsible AI: Applying AI Principles**
+### 3. Google Cloud Data Analytics Certificate:  
+Demonstrates validated proficiency in transforming raw data into actionable insights using BigQuery, SQL, and scalable Google Cloud data pipelines. Confirms hands‑on skills in ETL/ELT, data modeling, governance, and building end‑to‑end analytical solutions aligned with modern cloud architecture best practices.
+
+![Google Cloud Data Analytics Certificate](./assets/data_analytics_google.png)
+
+
+### 4.Prompt Design & Engineering in Vertex AI:
+Demonstrates proficiency in designing effective prompts, optimizing model behavior, and structuring inputs for reliable multimodal generation using Vertex AI. Validates hands‑on skills in building, testing, and refining prompt-driven workflows with the Vertex AI Studio, Workbench, and Python SDK for production‑ready AI applications.
+
+![Prompt Design & Engineering in Vertex AI](./assets/Prompt Design in Vertex_AI.png)
+
+### 5. Responsible AI & Applying AI Principles:
+Demonstrates practical knowledge of implementing fairness, transparency, privacy, and safety guidelines when designing and deploying AI systems on Google Cloud. Validates hands‑on skills in identifying risks, mitigating bias, and applying responsible AI governance throughout the model development lifecycle.
+
+### 5. Responsible AI & Applying AI Principles
+Demonstrates practical knowledge of implementing fairness, transparency, privacy, and safety guidelines when designing and deploying AI systems on Google Cloud. Validates hands‑on skills in identifying risks, mitigating bias, and applying responsible AI governance throughout the model development lifecycle.
+
+<p align="left">
+  <img src="./assets/Responsible_AI.png" alt="Responsible AI Badge" width="200" />
+  <img src="./assets/Responsible_AI2.png" alt="Responsible AI Badge 2" width="200" />
+</p>
+
+
+### 6. Looker Studio Essentials:  
+Demonstrates proficiency in building interactive dashboards, transforming raw data into clear visual insights, and applying best practices for effective data storytelling. Validates hands‑on skills in connecting data sources, designing reports, and creating shareable analytics using Looker Studio’s visualization and reporting tools.
+
+![Responsible AI: Applying AI Principles](./assets/looker_studio.png)
+
 
 ## Google / Kaggle
-**AI Agents Intensive Program (2025 & 2026)**
+### AI Agents Intensive Program (2025 & 2026):
+Demonstrates hands‑on expertise in building agentic AI systems using LangGraph, Gemini, Google ADK, and multi‑agent orchestration patterns, including memory, tool‑calling, HITL workflows, and secure agent design. Validates practical skills in specification‑driven development, observability, debugging, and implementing real‑world agent workflows aligned with modern AI engineering best practices.
+
+<p align="left">
+  <img src="./assets/Google_intesive.png" alt="Responsible AI Badge" width="200" />
+  <img src="./assets/google_5day_vibe_coding.png" alt="Responsible AI Badge 2" width="200" />
+</p>
 
 ## LangGraph
 **Google ADK**
