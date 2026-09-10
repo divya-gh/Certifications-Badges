@@ -51,7 +51,7 @@ Provides a strong foundation in how generative AI systems and large language mod
 ### 4.Prompt Design & Engineering in Vertex AI:
 Demonstrates proficiency in designing effective prompts, optimizing model behavior, and structuring inputs for reliable multimodal generation using Vertex AI. Validates hands‑on skills in building, testing, and refining prompt-driven workflows with the Vertex AI Studio, Workbench, and Python SDK for production‑ready AI applications.
 
-![Prompt Design & Engineering in Vertex AI](./assets/Prompt Design in Vertex_AI.png)
+![Prompt Design & Engineering in Vertex AI](./assets/Prompt_Design_in_Vertex_AI.png)
 
 ### 5. Responsible AI & Applying AI Principles
 Demonstrates practical knowledge of implementing fairness, transparency, privacy, and safety guidelines when designing and deploying AI systems on Google Cloud. Validates hands‑on skills in identifying risks, mitigating bias, and applying responsible AI governance throughout the model development lifecycle.
