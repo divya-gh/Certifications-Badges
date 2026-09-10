@@ -80,26 +80,23 @@ Demonstrates proficiency in building interactive dashboards, transforming raw da
 ![Responsible AI: Applying AI Principles](./assets/looker_studio.png)
 
 
-## LangGraph
-**Google ADK**
-**Multi-agent workflows**
-**Memory, observability, security (STRIDE/Semgrep)**
-**Specification-driven development**
-**Multi-agent orchestration**
-**HITL workflows**
-**Long-term memory**
-**Debugging & observability**
-**Production-oriented agent development**
+## LangGraph Agent Framework - [Course with Hands‑On Projects](https://github.com/divya-gh/LangGraph-Course.git)
+- Google ADK & LangGraph fundamentals
+- Multi‑agent workflows & orchestration patterns
+- Memory systems (short‑term, long‑term, entity memory)
+- Observability, debugging & tracing
+- Security best practices (STRIDE, Semgrep)
+- Specification‑driven development & structured agent design
+- Human‑in‑the‑loop (HITL) workflows
+- Tool‑calling, function routing & safe execution
+- Production‑oriented, scalable agent development
 
-
-
-Links to verification pages
-
-
-
+---
 🔗 Quick Links
 LinkedIn: https://www.linkedin.com/in/divya-shetty-k  
 
-
+---
 #💡 About Me
 **AI Engineer specializing in Agentic AI, Multi-Agent Systems, LLM Applications, RAG, and AI Security. I build production-oriented AI agents using LangGraph, Gemini/Vertex AI, Google ADK, BigQuery, and Python, with strong foundations in testing, observability, and responsible AI.**
+
+---
