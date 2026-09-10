@@ -39,9 +39,6 @@ Demonstrates proficiency in designing effective prompts, optimizing model behavi
 
 ![Prompt Design & Engineering in Vertex AI](./assets/Prompt Design in Vertex_AI.png)
 
-### 5. Responsible AI & Applying AI Principles:
-Demonstrates practical knowledge of implementing fairness, transparency, privacy, and safety guidelines when designing and deploying AI systems on Google Cloud. Validates hands‑on skills in identifying risks, mitigating bias, and applying responsible AI governance throughout the model development lifecycle.
-
 ### 5. Responsible AI & Applying AI Principles
 Demonstrates practical knowledge of implementing fairness, transparency, privacy, and safety guidelines when designing and deploying AI systems on Google Cloud. Validates hands‑on skills in identifying risks, mitigating bias, and applying responsible AI governance throughout the model development lifecycle.
 
