@@ -1,6 +1,8 @@
+# Name : Divya Shetty
 # AI Certifications & Skill Badges Portfolio
 This repository is a consolidated portfolio of my verified certifications, skill badges, and training achievements across AI Engineering, Agentic AI, LLMs, RAG, Cloud, and Responsible AI. It serves as a single, easy-to-access location for recruiters, hiring managers, collaborators, and project partners to review my technical qualifications and continuous learning progress in modern AI systems.
 
+---
 # 🎯 Purpose of This Repository
 #### To showcase verified credentials demonstrating hands-on expertise in:
 
