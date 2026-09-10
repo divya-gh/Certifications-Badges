@@ -16,6 +16,12 @@ This repository is a consolidated portfolio of my verified certifications, skill
 - Responsible AI practices
 
 # 📘 Included Certifications & Badges
+
+## UTSA Data Analytics & Data Science Boot Camp:  
+Provides comprehensive training across statistics, Python, R, SQL, big data ecosystems, machine learning, and TensorFlow, preparing students to build end‑to‑end analytical and predictive workflows. Validates hands‑on experience in data visualization with tools like D3.js, JavaScript, and dashboarding platforms, along with practical skills in modeling, feature engineering, and applied data science techniques.
+
+![Google Cloud Data Analytics Professional](./assets/UTSA_DataScience_Analytics_Certificate.png)
+
 ## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.skills.google/profile/badges?credential_type=skill_badge)
 ### 1. Google Cloud Data Analytics Professional:
 Validated expertise in building scalable data pipelines, performing advanced SQL analytics, and applying lakehouse architecture principles on Google Cloud. Demonstrates proficiency in ETL/ELT, data modeling, governance, and end‑to‑end analytical solution development using BigQuery and GCP tools.
