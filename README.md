@@ -8,8 +8,8 @@ To showcase verified credentials demonstrating hands-on expertise in:
 - Agentic AI & Multi-Agent Systems
 - LangGraph, Google ADK, MCP, A2A
 - LLM Engineering (Gemini, Vertex AI, LangChain)
-- `Generative AI Foundations, Prompt Engineering & Model Behavior
-- `Machine Learning, Deep Learning & TensorFlow
+- Generative AI Foundations, Prompt Engineering & Model Behavior
+- Machine Learning, Deep Learning & TensorFlow
 - Python, SQL, R & Big Data Ecosystems
 - RAG Pipelines & Source-Grounded Generation
 - AI Security, Reliability & Governance
