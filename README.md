@@ -43,8 +43,9 @@ Demonstrates validated proficiency in transforming raw data into actionable insi
 Provides a strong foundation in how generative AI systems and large language models work, covering core concepts such as embeddings, tokenization, model architectures, multimodal inputs, and responsible AI principles. Demonstrates practical understanding of prompt design, model capabilities and limitations, and how LLMs generate, transform, and reason over text, code, and structured data.
 
 <p align="left">
-  <img src="./assets/Responsible_AI.png" alt="Responsible AI Badge" width="200" />
-  <img src="./assets/Responsible_AI_2.png" alt="Responsible AI Badge 2" width="200" />
+  <img src="./assets/genai.png" alt="Responsible AI Badge" width="200" />
+  <img src="./assets/llm.png" alt="Responsible AI Badge 2" width="200" />
+  <img src="./assets/genai_foundational.png" alt="Responsible AI Badge 2" width="200" />
 </p>
 
 ### 4.Prompt Design & Engineering in Vertex AI:
