@@ -16,7 +16,7 @@ This repository is a consolidated portfolio of my verified certifications, skill
 - Responsible AI practices
 
 # 📘 Included Certifications & Badges
-## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.credly.com/users/divya-shetty.1085494c)
+## Google Cloud : [Credly](https://www.credly.com/users/divya-shetty.1085494c), [GoogleSkills](https://www.skills.google/profile/badges?credential_type=skill_badge)
 ### 1. Google Cloud Data Analytics Professional:
 Validated expertise in building scalable data pipelines, performing advanced SQL analytics, and applying lakehouse architecture principles on Google Cloud. Demonstrates proficiency in ETL/ELT, data modeling, governance, and end‑to‑end analytical solution development using BigQuery and GCP tools.
 
